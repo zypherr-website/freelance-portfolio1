@@ -458,6 +458,7 @@ h3{
 /* ----- FOOTER ----- */
 .footer{
     text-align: center;
+    background: #000;
 }
 .footer span{
     color: #5fabf7;
