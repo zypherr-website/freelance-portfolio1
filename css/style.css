@@ -191,6 +191,8 @@ h3{
     align-items: center;
     justify-content: center;
     gap: 5rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
 
 .about-section .div1 p{
@@ -239,7 +241,7 @@ h3{
 }
 
 .about-section .div2 img{
-    width: 50rem;
+    width: 55rem;
     height: 45rem;
     border: 2.5px solid var(--color1);
     border-radius: 15px;
@@ -253,6 +255,7 @@ h3{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 10rem;
 }
 
 .journey-section .div{
@@ -310,6 +313,7 @@ h3{
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
     text-align: center;
+    padding-bottom: 10rem;
 }
 
 .services-section .div .box{
@@ -338,6 +342,7 @@ h3{
 /* ----- PORTFOLIO SECTION ----- */
 .portfolio-section{
     text-align: center;
+    padding-bottom: 10rem;
 }
 
 .portfolio-section .div{
@@ -413,6 +418,7 @@ h3{
 /* ----- CONTACT FORM ----- */
 .contact-form{
     text-align: center;
+    padding-bottom: 10rem;
 }
 
 .contact-form input, textarea{
@@ -459,6 +465,7 @@ h3{
 /* ----- FOOTER ----- */
 .footer{
     text-align: center;
+    background: #000;
 }
 .footer span{
     color: #5fabf7;
